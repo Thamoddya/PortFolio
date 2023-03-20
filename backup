@@ -1,0 +1,55 @@
+ <!-- start my client -->
+    <section id="my-client" class="my-client px-50 w-50 offset-6" style="background-color: #455e89">
+        <div class="container-xl">
+            <div class="row">
+                <div class="col-12">
+                    <h2 class="heading-default" data-viewport="custom">Team</h2>
+                    <div class="row">
+                        <div class="col-12 col-md-8 offset-0 offset-md-2" data-viewport="opacity">
+                            <div class="my-client__list my-client__js owl-carousel owl-theme">
+                                <!-- start client item -->
+                                <div class="my-client__item">
+                                    <figure class="mx-auto mb-4 ratio ratio-1x1 rounded-circle bg-cover owl-lazy"
+                                        data-src="./assets/images/theme phone.png"></figure>
+                                    <div class="my-client__intro mb-4">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit,
+                                        sed do eiusmod tempor incididunt ut labore et dolore magna
+                                        aliqua. Ut enim ad minim veniam..
+                                    </div>
+                                    <h2 class="my-client__name mb-1">Bamidu Jayakodi</h2>
+                                    <p class="my-client__position">Developer/Director</p>
+                                </div>
+                                <!-- end client item -->
+
+                                <!-- start client item -->
+                                <div class="my-client__item">
+                                    <figure class="mx-auto mb-4 ratio ratio-1x1 rounded-circle bg-cover owl-lazy"
+                                        data-src="./assets/images/theme phone.png"></figure>
+                                    <div class="my-client__intro mb-4">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit,
+                                        sed do eiusmod tempor incididunt ut labore et dolore magna
+                                        aliqua. Ut enim ad minim veniam..
+                                    </div>
+                                    <h2 class="my-client__name mb-1">Shehan Hansaka</h2>
+                                    <p class="my-client__position">Developer/Designer</p>
+                                </div>
+                                <!-- end client item -->
+                                <div class="my-client__item">
+                                    <figure class="mx-auto mb-4 ratio ratio-1x1 rounded-circle bg-cover owl-lazy"
+                                        data-src="./assets/images/JMFC9211.JPG"></figure>
+                                    <div class="my-client__intro mb-4">
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit,
+                                        sed do eiusmod tempor incididunt ut labore et dolore magna
+                                        aliqua. Ut enim ad minim veniam..
+                                    </div>
+                                    <h2 class="my-client__name mb-1">Rishika Mandakini</h2>
+                                    <p class="my-client__position">Developer/Content Creator</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- start my client -->
